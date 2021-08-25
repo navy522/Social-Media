@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207492695985",
+    "project_id": "social-media-fc0dc",
+    "storage_bucket": "social-media-fc0dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207492695985:android:21c02d8209805cdec85f90",
+        "android_client_info": {
+          "package_name": "com.navneet.socialmedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207492695985-jnf728gjh6uqmlid2rt4gmca18nvk234.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4TsuIgds47ZXi6dsUdiW-ZeZCT7pav08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207492695985-jnf728gjh6uqmlid2rt4gmca18nvk234.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
